@@ -37,3 +37,8 @@ These observations underscore the dynamic and sometimes unpredictable nature of 
 This project serves as a foundational exploration into the world of stock market analysis. Through the lens of Tesla and GameStop, we've seen how stock prices can reflect not just the financial health of a company but also the sentiments and speculative actions of the market. The interactive dashboard and detailed visualizations provide a platform for further investigation and learning.
 
 As the market continues to evolve, so too will the tools and techniques for analysis. This project is just the beginning of what can be a fascinating journey into finance and data science. Whether for educational purposes or personal interest, the insights gleaned here offer a valuable starting point for anyone looking to understand the complexities of the stock market.
+
+
+
+![DataScrape-Insight-TSLA-GME](https://github.com/Sabbirrah/DataScrape_Insight_TSLA-GME/assets/116674419/242c26f5-f7ad-49a9-9219-c794920c0907)
+
